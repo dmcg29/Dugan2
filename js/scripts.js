@@ -72,10 +72,4 @@
     });
   
   })(jQuery); // End of use strict
-
-
-function newFunction() {
-  var audio = new Audio('audio_file.mp3');
-  audio.play();
-}
   
